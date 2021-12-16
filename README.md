@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ninjacode01
-- 👀 I’m interested in Web Development and Control automations
-- 🌱 I’m currently learning Arduions
-- 💞️ I’m looking to collaborate on WebDev and App Dev
-- 📫 How to reach me :via e-mail : astrohimanshu99@gmail.com
+### Hi, I am Himanshu Wadhwa
+I am a 2<sup>nd</sup> year undergrad in the Department of Electrical Engineering at the Indian Institute of Technology, Delhi.<br>
+My interests lie in Machine Learning and Computer Vision.
+
+
 
 <!---
 ninjacode01/ninjacode01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
